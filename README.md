@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://img.shields.io/badge/C-033963?style=flat&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=HTML5&logoColor=white" />
   <br>
