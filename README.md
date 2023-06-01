@@ -1,6 +1,4 @@
 <div align="center">
-<h3> Tech Stack </h3>
-	<br>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=HTML5&logoColor=white" />
   <br>
