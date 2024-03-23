@@ -6,7 +6,7 @@ Hello, I'm Ji Seungmin.
 ## 🏆 Achievements
 
 - **Academic Achievements**
-  - **Title**: *Optimizing Generative Adversarial Network (GAN) Models for Non-Pneumatic Tire Design*
+  - **Title**: *Optimizing Generative Adversarial Network (GAN) Models for Non-Pneumatic Tire Design(SCIE)*
   - **Published in**: [Applied Sciences (MDPI)](https://www.mdpi.com/2076-3417/13/19/10664)
   - **Also available on**: [ACM Digital Library](https://dl.acm.org/doi/10.1145/3599957.3606243)
   - **Author Position**: Co-author (Second Author))
